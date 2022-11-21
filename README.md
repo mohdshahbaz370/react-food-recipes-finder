@@ -1,1 +1,1 @@
-# react_recipe_search
+# react_recipes_search
